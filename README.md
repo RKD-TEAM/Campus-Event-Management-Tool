@@ -4,4 +4,6 @@
 ```bash
 pkg install git -y
 pkg install python -y 
-git clone https://github.com/RKD-TEAM?tab=repositories
+git clone https://github.com/RKD-TEAM/Campus-Event-Management-Tool
+cd Campus-Event-Management-Tool
+python p..py
